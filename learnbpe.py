@@ -36,8 +36,9 @@ while True:
     ls_pair = []
     ls_c = []
     for pair, count in pairmap.items():
-        ls_pair.append(pair)
-        ls_c.append(count)
+        if count>=5:
+            ls_pair.append(pair)
+            ls_c.append(count)
     ix_ord = np.argsort(ls_c)[::-1][:100]
     maxnqueue = [ls_pair[ix] for ix in ix_ord]
     if ls_c[ix_ord[0]]<5: # break if the most frequent pair appear less than 5 times
