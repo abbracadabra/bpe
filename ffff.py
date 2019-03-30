@@ -1,4 +1,7 @@
-with open("xxx1.txt",encoding='utf-8') as f:
-    for line in f:
-        sss = line.strip('\n')
-        print(sss)
+import sys
+# calculate and stuff
+sys.exit(100)
+
+
+
+print(222)

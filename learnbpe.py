@@ -1,7 +1,15 @@
-import numpy as np
+import argparse
+parser = argparse.ArgumentParser()
+parser.add_argument("input")
+parser.add_argument("output")
+args = parser.parse_args()
+in_fp = args.input
+out_fp = args.output
 
-in_fp = r'sss.txt'
-out_fp = r'xxx1.txt'
+# in_fp = r'sss.txt'
+# out_fp = r'xxx1.txt'
+
+import numpy as np
 
 wordmap = {}
 pairlist = []

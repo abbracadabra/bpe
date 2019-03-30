@@ -1,6 +1,17 @@
-in_fp = r'sss.txt'
-out_fp = r'out.txt'
-pair_fp = r'xxx1.txt'
+import argparse
+parser = argparse.ArgumentParser()
+parser.add_argument("pairs",help="filepath that stores pairs")
+parser.add_argument("input")
+parser.add_argument("output")
+args = parser.parse_args()
+in_fp = args.input
+out_fp = args.output
+pair_fp = args.pairs
+
+# in_fp = r'sss.txt'
+# out_fp = r'out.txt'
+# pair_fp = r'xxx1.txt'
+
 
 pairmap = set()
 with open(pair_fp,encoding='utf-8') as f:
