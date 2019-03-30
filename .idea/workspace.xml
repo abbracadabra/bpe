@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a36a71ea-943f-4d18-b82b-e76e8b8c8f31" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applybpe.py" beforeDir="false" afterPath="$PROJECT_DIR$/applybpe.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learnbpe.py" beforeDir="false" afterPath="$PROJECT_DIR$/learnbpe.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xxx1.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,38 +24,56 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="12" />
+          <entry key="py" value="14" />
           <entry key="sss" value="1" />
-          <entry key="txt" value="24" />
+          <entry key="txt" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="25" />
-          <entry key="Python" value="12" />
+          <entry key="PLAIN_TEXT" value="33" />
+          <entry key="Python" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1621" />
+          <entry key="py" value="1957" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="1621" />
+          <entry key="Python" value="1957" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/applybpe.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            <state relative-caret-position="351">
+              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/out.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="103" column="40" lean-forward="true" selection-start-line="103" selection-start-column="40" selection-end-line="103" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ffff.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="30" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -63,26 +81,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sss.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="23117" column="31" selection-start-line="23117" selection-start-column="31" selection-end-line="23117" selection-end-column="31" />
+            <state relative-caret-position="1359">
+              <caret line="23113" column="13" selection-start-line="23113" selection-start-column="13" selection-end-line="23113" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xxx.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="99" selection-start-line="99" selection-end-line="99" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/learnbpe.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+            <state relative-caret-position="-999">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -112,6 +121,11 @@
       <find>amin</find>
       <find>ecosystem</find>
       <find>ения</find>
+      <find>division</find>
+      <find>divi</find>
+      <find>visions</find>
+      <find>vision</find>
+      <find>s</find>
     </findStrings>
     <replaceStrings>
       <replace>maxnqueue</replace>
@@ -128,8 +142,9 @@
         <option value="$PROJECT_DIR$/sss" />
         <option value="$PROJECT_DIR$/learnbpess.py" />
         <option value="$PROJECT_DIR$/sss.txt" />
-        <option value="$PROJECT_DIR$/applybpe.py" />
+        <option value="$PROJECT_DIR$/ffff.py" />
         <option value="$PROJECT_DIR$/learnbpe.py" />
+        <option value="$PROJECT_DIR$/applybpe.py" />
       </list>
     </option>
   </component>
@@ -188,8 +203,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.learnbpe">
-    <configuration name="ee" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.applybpe">
+    <configuration name="applybpe" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bpe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -201,7 +216,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ee.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applybpe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ffff" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bpe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ffff.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,17 +310,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.ee" />
       <item itemvalue="Python.sss" />
       <item itemvalue="Python.learnbpe" />
       <item itemvalue="Python.learnbpess" />
+      <item itemvalue="Python.ffff" />
+      <item itemvalue="Python.applybpe" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.applybpe" />
+        <item itemvalue="Python.ffff" />
         <item itemvalue="Python.learnbpe" />
         <item itemvalue="Python.learnbpess" />
         <item itemvalue="Python.sss" />
-        <item itemvalue="Python.ee" />
       </list>
     </recent_temporary>
   </component>
@@ -305,17 +343,17 @@
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35032538" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34273317" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.28199565" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.28199565" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
@@ -337,6 +375,22 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ffff.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/applybpe.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -361,13 +415,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sss.py" />
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/742042635/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="339" column="4" selection-start-line="339" selection-start-column="4" selection-end-line="339" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/miniconda3/Lib/site-packages/numpy/core/fromnumeric.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -384,22 +431,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/xxx.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="99" selection-start-line="99" selection-end-line="99" selection-end-column="4" />
+        <state relative-caret-position="9480">
+          <caret line="316" column="3" lean-forward="true" selection-start-line="316" selection-start-column="3" selection-end-line="316" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/742042635/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="5051" column="23" selection-start-line="5051" selection-start-column="23" selection-end-line="5051" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ffff.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="103" column="40" lean-forward="true" selection-start-line="103" selection-start-column="40" selection-end-line="103" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnbpe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-999">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xxx1.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11822" column="8" lean-forward="true" selection-start-line="11822" selection-start-column="8" selection-end-line="11822" selection-end-column="8" />
+        <state relative-caret-position="210">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sss.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="23117" column="31" selection-start-line="23117" selection-start-column="31" selection-end-line="23117" selection-end-column="31" />
+        <state relative-caret-position="1359">
+          <caret line="23113" column="13" selection-start-line="23113" selection-start-column="13" selection-end-line="23113" selection-end-column="13" />
         </state>
       </provider>
       <provider editor-type-id="LargeFileEditor">
@@ -410,15 +485,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/applybpe.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnbpe.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+        <state relative-caret-position="351">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
         </state>
       </provider>
     </entry>

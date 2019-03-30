@@ -1,1 +1,0 @@
-print("sadasd\nsadd".split())

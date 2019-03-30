@@ -9,7 +9,7 @@ pairlist = []
 with open(in_fp,encoding='utf-8') as f:
     for line in f:
         for w in line.split():
-            w += ' '
+            w += '▁'
             if w not in wordmap:
                 wordmap[w] = [list(w),1]
             else:
